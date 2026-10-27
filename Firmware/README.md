@@ -5,6 +5,7 @@ A versão mais nova fica no topo; as anteriores continuam disponíveis.
 
 | Arquivo | PLC | Versão | Formato do programa | Data | SHA-256 |
 |---|---|---|---|---|---|
+| [PLC_F407_v1.0.1_2026-10-27.bin](F407/PLC_F407_v1.0.1_2026-10-27.bin) | ECU-MAX (F407) | 1.0.1 | 1 | 27/10/2026 | `201ea8d60866c7f3` |
 | [PLC_F407_v1.0.0_2026-10-27.bin](F407/PLC_F407_v1.0.0_2026-10-27.bin) | ECU-MAX (F407) | 1.0.0 | 1 | 27/10/2026 | `4ded24cd51368709` |
 
 O editor compara o **formato do programa**: ao conectar, a janela *Comunicação PLC* mostra a versão do firmware e se é compatível.
